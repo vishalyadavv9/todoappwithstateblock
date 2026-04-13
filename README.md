@@ -105,7 +105,7 @@ This happens due to database schema update.
 
 ## 📸 Screenshots
 
-assets\homescreen.png
+![Home](assets/images/home.png)
 
 ---
 
