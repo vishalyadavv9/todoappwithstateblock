@@ -105,8 +105,11 @@ This happens due to database schema update.
 
 ## 📸 Screenshots
 
-![Home](assets/homescreen.png)
+## 📸 Screenshots
 
+<p align="center">
+  <img src="assets/homescreen.png" width="250"/>
+</p>
 ---
 
 ## 📌 Future Improvements
