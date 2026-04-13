@@ -125,8 +125,7 @@ Feel free to fork this project and improve it.
 ---
 
 ## 👨‍💻 Author
-
-**Vishal**  
+ 
 GitHub: https://github.com/vishalyadavv9
 ---
 
