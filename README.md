@@ -103,7 +103,6 @@ This happens due to database schema update.
 
 ---
 
-## 📸 Screenshots
 
 ## 📸 Screenshots
 
