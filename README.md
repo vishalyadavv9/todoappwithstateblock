@@ -110,6 +110,8 @@ This happens due to database schema update.
 <p align="center">
   
    <img src="assets/homescreen2.png" width="200"/>
+   <img src="assets/homescreen.png" width="200"/>
+   
 </p>
 
 
