@@ -219,7 +219,7 @@ class _TodoUiScreenState extends State<TodoUiScreen> {
       ),
       body: Padding(
         padding: const EdgeInsets.all(20),
-        child: ListView.builder(
+        child: ListView.separated(
           itemCount: todoCardsList.length,
           itemBuilder: (context, index) {
             return Container(
@@ -233,6 +233,7 @@ class _TodoUiScreenState extends State<TodoUiScreen> {
                   Row(
                     children: [
                       Container(
+                        // margin: EdgeInsets.only(bottom: 15),
                         width: 70,
                         height: 70,
                         child: ClipRRect(
@@ -308,11 +309,11 @@ class _TodoUiScreenState extends State<TodoUiScreen> {
                       ),
                     ],
                   ),
-                  SizedBox(height: 10),
                 ],
               ),
             );
           },
+          separatorBuilder: (context, index) => SizedBox(height: 10),
         ),
       ),
       floatingActionButton: FloatingActionButton(
