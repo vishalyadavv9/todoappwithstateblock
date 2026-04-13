@@ -109,7 +109,7 @@ This happens due to database schema update.
 
 <p align="center">
   <img src="assets/homescreen.png" width="300"/>
-   <img src="assets/homescreen2.png" width="300"/>
+   <img src="assets/homescreen2.png" width="250"/>
 </p>
 
 
